@@ -16,8 +16,7 @@ You can run JS:
 Inside an HTML file:
 
 html
-Copy
-Edit
+
 <script>
   console.log("Hello, World!");
 </script>
